@@ -1,7 +1,7 @@
 # Gradient Cards
 **Author:** Eduardo de Andrade;
 
-**Languages:** CSS, HTML;
+**Languages/Tools/Frameworks:** CSS, HTML;
 
 **Data:** 24/04/2020
 
