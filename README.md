@@ -1,9 +1,12 @@
 # Gradient Cards
 **Author:** Eduardo de Andrade;
 
-**Languages/Tools/Frameworks:** CSS, HTML;
+**Languages/Tools/Frameworks:**
+ 
+ * CSS
+ * HTML
 
-**Data:** 24/04/2020
+**Date:** 24/04/2020
 
 **Description:**
 2 Modelos de cards responsivos com design em degradê.
