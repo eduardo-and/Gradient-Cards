@@ -19,7 +19,7 @@
 #### Modelo 2
 ![exemplo](/Model_2/exemple-min.gif)
 
-**As cores e estrutura das imagens acima não 100% fieis ao projeto.*
+**As cores e estrutura das imagens acima não são 100% fieis ao projeto.*
 
 ##### Inspirado em:
 https://www.youtube.com/watch?v=-1U62fdmCk4
